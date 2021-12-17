@@ -5,7 +5,7 @@ SVM Model for predicting if the tumor is Malignant or Benign
 Support Vector Machine is a supervised learning algorithm used mostly for classification in Machine Learning and Deep Learning. It looks at extremes of the dataset and draws a hypothetical decision boundary known as Hyperplane to segregate different classes. These extreme cases are called support vectors.
 
 <p align="center">
-![support-vector-machine-algorithm](https://user-images.githubusercontent.com/86421205/146557924-83db8f3a-bc40-4317-a5dd-6f236823f27f.png)
+![support-vector-machine-algorithm](https://user-images.githubusercontent.com/86421205/146558111-55ca5980-2f4e-45e1-a1ee-977e8dace5df.png)
 </p>
 
 If the number of input features is two, then the hyperplane is a line. If the number of input features is three, then the hyperplane becomes a 2-D plane.
